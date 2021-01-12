@@ -4,7 +4,7 @@ class SlingShot{
             bodyA: bodyA,
             pointB: pointB,
             stiffness: 0.04,
-            lenght: 20
+            length: 20
         }
         this.pointB = pointB
         this.sling = Constraint.create(options);
