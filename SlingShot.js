@@ -20,7 +20,7 @@ class SlingShot{
 
             strokeWeight(4);
             fill("red");
-            line(pointA.x,pointA.y,pointB.x,PointB.y);
+            line(pointA.x,pointA.y,pointB.x,pointB.y);
         }
     }
 }
